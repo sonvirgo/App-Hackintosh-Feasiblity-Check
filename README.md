@@ -1,5 +1,9 @@
 # Hackintosh-Feasiblity-Check
 
+The 1 and only repo, that teach you to put macOS to any hardware (even no QE/CI needed), hence using Xcdoe to make valuable iPhone application, without waste money!!!
+
+Enjoy!!!
+
 [![Github All Releases](https://img.shields.io/github/downloads/sonvirgo/App-Hackintosh-Feasiblity-Check/total.svg)]()
 
 Hackintosh Feasiblity Check
