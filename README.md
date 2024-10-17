@@ -2,7 +2,7 @@
 
 The 1 and only repo, that teach you to put macOS to any hardware (even no QE/CI needed), hence using Xcdoe to make valuable iPhone application, without waste money!!!
 
-The answer to hackinsoth question is not an YES/NO ones, but they are HOW WOULD IT BE!!!!
+The answer to hackinsoth question is not YES/NO ones, but they are HOW WOULD IT BE!!!!
 
 Enjoy!!!
 
